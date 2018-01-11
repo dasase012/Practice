@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!-- 
+	*<iframe> 태그
+		-하나의 웹 문서 안에 또 다른 웹 문서를 표시할 때 사용.
+
+ -->
+
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body style="background-image: url('edited_bg.png');">
+	<h3>iframe 공간 분할 태그</h3>
+	<div >
+		<span>
+			<a href="resume.html" target="content">Resume</a><br>
+		</span>
+		<span>
+			<a href="researchInt.html" target="content">Research Interest</a><br>
+		</span>
+		<span>
+			<a href="researchExp.html" target="content">Research Experience</a><br>
+		</span>
+		<span>
+			<a href="webproj.html" target="content">Web Projects</a><br>
+		</span>
+		<span>
+			<a href="contact.html" target="content">Contact</a><br>
+		</span>
+	
+	</div>
+	<iframe src="basic.html" width="1300" height="800" style="margin-left: 400px"
+			name="content" scrolling="no">
+	</iframe>
+		
+</body>
+</html>
