@@ -24,7 +24,6 @@ public class TcpIpServer5 {
 		}
 	} // main
 } // class
-
 class Sender extends Thread {
 	Socket socket;
 	DataOutputStream out;
@@ -38,7 +37,7 @@ class Sender extends Thread {
 		} catch(Exception e) {}
 	}
 
-	public void run() {
+	public void run() { //각각의 쓰레드는 run으로 실행되어야 함
 		Scanner scanner = new Scanner(System.in);
 		while(out!=null) {
 			try {
@@ -47,7 +46,6 @@ class Sender extends Thread {
 		}
 	} // run()
 }
-
 class Receiver extends Thread {
 	Socket socket;
 	DataInputStream in;
@@ -60,7 +58,7 @@ class Receiver extends Thread {
 
 	}
 
-	public void run() {
+	public void run() {//각각의 쓰레드는 run으로 실행되어야 함
 		while(in!=null) {
 			try {
 				System.out.println(in.readUTF());

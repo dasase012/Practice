@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="source/ch1"/>
+	<classpathentry kind="src" path="source/ch10"/>
+	<classpathentry kind="src" path="source/ch11"/>
+	<classpathentry kind="src" path="source/ch12"/>
+	<classpathentry kind="src" path="source/ch13"/>
+	<classpathentry kind="src" path="source/ch14"/>
+	<classpathentry kind="src" path="source/ch15"/>
+	<classpathentry kind="src" path="source/ch16"/>
+	<classpathentry kind="src" path="source/ch2"/>
+	<classpathentry kind="src" path="source/ch3"/>
+	<classpathentry kind="src" path="source/ch4"/>
+	<classpathentry kind="src" path="source/ch5"/>
+	<classpathentry kind="src" path="source/ch6"/>
+	<classpathentry kind="src" path="source/ch7"/>
+	<classpathentry kind="src" path="source/ch8"/>
+	<classpathentry kind="src" path="source/ch9"/>
+	<classpathentry kind="src" path="workspace/ch01/src"/>
+	<classpathentry kind="src" path="workspace/ch02/src"/>
+	<classpathentry kind="src" path="workspace/ch03/src"/>
+	<classpathentry kind="src" path="workspace/ch04/src"/>
+	<classpathentry kind="src" path="workspace/ch05/src"/>
+	<classpathentry kind="src" path="workspace/ch06/src"/>
+	<classpathentry kind="src" path="workspace/ch07/src"/>
+	<classpathentry kind="src" path="workspace/ch08/src"/>
+	<classpathentry kind="src" path="workspace/ch09/src"/>
+	<classpathentry kind="src" path="workspace/ch10/src"/>
+	<classpathentry kind="src" path="workspace/ch11/src"/>
+	<classpathentry kind="src" path="workspace/ch12/src"/>
+	<classpathentry kind="src" path="workspace/ch13/src"/>
+	<classpathentry kind="src" path="workspace/ch14/src"/>
+	<classpathentry kind="src" path="workspace/ch15/src"/>
+	<classpathentry kind="src" path="workspace/ch16/src"/>
+	<classpathentry kind="output" path="workspace/ch01/bin"/>
+</classpath>

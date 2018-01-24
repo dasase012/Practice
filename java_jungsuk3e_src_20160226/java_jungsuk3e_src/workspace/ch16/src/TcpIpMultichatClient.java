@@ -4,11 +4,7 @@ import java.util.Scanner;
 
 public class TcpIpMultichatClient {
 	public static void main(String args[]) {
-		if(args.length!=1) {
-			System.out.println("USAGE: java TcpIpMultichatClient 대화명");
-			System.exit(0);
-		}
-
+		String name = "이보희";
 		try {
 			String serverIp = "127.0.0.1";
             // 소켓을 생성하여 연결을 요청한다.

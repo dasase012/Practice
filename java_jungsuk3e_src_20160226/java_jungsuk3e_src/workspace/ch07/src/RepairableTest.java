@@ -11,7 +11,6 @@ class RepairableTest{
 //		scv.repair(marine);	
 	}
 }
-
 interface Repairable {}
 class GroundUnit extends Unit2 {
 	GroundUnit(int hp) {
