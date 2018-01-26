@@ -7,8 +7,6 @@
 <fullyQualifiedTypeName name="Dropship"/>
 <fullyQualifiedTypeName name="Buyer"/>
 <fullyQualifiedTypeName name="Computer"/>
-<fullyQualifiedTypeName name="java.util.LinkedList"/>
-<fullyQualifiedTypeName name="java.util.Queue"/>
 <fullyQualifiedTypeName name="java.util.Vector"/>
 <fullyQualifiedTypeName name="java.util.Stack"/>
 <fullyQualifiedTypeName name="java.util.EmptyStackException"/>
@@ -31,7 +29,6 @@
 <fullyQualifiedTypeName name="TcpIpMultichatClient5.ClientSender"/>
 <fullyQualifiedTypeName name="HashMapEx1"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
-<fullyQualifiedTypeName name="java.util.HashMap"/>
 <fullyQualifiedTypeName name="java.util.Iterator"/>
 <fullyQualifiedTypeName name="TcpIpMultichatServer"/>
 <fullyQualifiedTypeName name="TcpIpMultichatServer.ServerReceiver"/>
@@ -45,4 +42,13 @@
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="java.io.BufferedReader"/>
 <fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.util.LinkedList"/>
+<fullyQualifiedTypeName name="java.util.ListIterator"/>
+<fullyQualifiedTypeName name="PriorityQueueEx"/>
+<fullyQualifiedTypeName name="java.util.Queue"/>
+<fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="StringJoinerEx"/>
+<fullyQualifiedTypeName name="java.util.StringJoiner"/>
 </qualifiedTypeNameHistroy>
